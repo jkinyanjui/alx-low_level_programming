@@ -21,14 +21,14 @@ int main(void)
 
 	if (last > 5)
 	{
-		printf("Last digit %d and is greater than 5 \n", n);
+		printf("Last digit of  %d is %d and is greater than 5 \n", n);
 	}
 	else if (last == 0)
 	{
-		printf("Last digit %d and is 0\n", n);
+		printf("Last digit of %d is %d and is 0\n", n, last);
 	}
 	else
-		printf("Last digit %d and is less that 6 and not 0 \n", n);
+		printf("Last digit of %d is %d and is less that 6 and not 0 \n", n, last);
 	return (0);
 
 }
