@@ -1,11 +1,8 @@
 #include "main.h"
 
 /**
- * print_alphabet: prints the alphabets from 'a - z'
- *
- * Return: Always 0.
+ * print_alphabet - Prints the alphabets from 'a - z'
  */
-
 void print_alphabet(void)
 {
 	char c;
