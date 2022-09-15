@@ -11,7 +11,7 @@
 
 int main(void)
 {
-	char sh[8] = "-putchar";
+	char sh[8] = "_putchar";
 	int x;
 
 	for (x = 0 ; x < 8; x++)
