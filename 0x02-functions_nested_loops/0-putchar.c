@@ -14,7 +14,7 @@ int main(void)
 	char sh[8] = "-putchar";
 	int x;
 
-	for (x = ; x < 8; x++)
+	for (x = 0 ; x < 8; x++)
 	{
 		_putchar(sh[x]);
 	}
